@@ -12,5 +12,5 @@ fs.readFile(jean-reyes-resume + '/info.json', 'utf8', function(err, data) {
 })
 
 "bin": {
-  "jean-reyes-resume": "./index.js"
+  "jean-reyes-resume": "./info.json"
 },
